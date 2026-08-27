@@ -33,3 +33,6 @@ terraform.rc   - все файлы с именем "terraform.rc "
 
 
 new_line_main
+
+new PyCharm line
+
