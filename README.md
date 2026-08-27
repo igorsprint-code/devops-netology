@@ -30,3 +30,6 @@ override.tf.json  - все файлы с именем "override.tf.json"
 .terraformrc   - все файлы с именем ".terraformrc"
 
 terraform.rc   - все файлы с именем "terraform.rc "
+
+
+new_line_main
