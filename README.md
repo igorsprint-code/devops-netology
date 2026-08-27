@@ -9,3 +9,4 @@
 *_override.tf.json
 файл .terraform.tfstate.lock.info
 fix_line
+fix_line_v2
